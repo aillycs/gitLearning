@@ -8,6 +8,7 @@
 #include<stdio.h>
 
 int main(){
-	printf("Test Git~");
+	printf("Test Git~\n");
+	printf("hello");
 	return 0;
 }
